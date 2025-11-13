@@ -17,6 +17,7 @@ body {
     background-color: #141414;
     user-select: none;
   overflow-x: hidden;
+      overflow-y: hidden;
 
 
 }
