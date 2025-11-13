@@ -13,11 +13,11 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 812px;
+    height: auto;
     background-color: #141414;
     user-select: none;
   overflow-x: hidden;
-overflow-y: hidden;
+
 
 }
 
